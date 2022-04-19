@@ -1,8 +1,9 @@
-.background {
+body {
     background-color: rgb(250, 212, 207);
 }
 
-.nav-link {
+a {
     color: rgb(122, 4, 4);
+    font-weight: bold;
     text-decoration: none;
 }
